@@ -1,0 +1,22 @@
+{
+  "name": "listagem-usuarios",
+  "version": "1.0.0",
+  "description": "curso de node.js",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronizera/listagem-usuarios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronizera/listagem-usuarios/issues"
+  },
+  "homepage": "https://github.com/ronizera/listagem-usuarios#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
